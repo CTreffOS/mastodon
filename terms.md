@@ -2,7 +2,7 @@
 
 ## Nutzungsbedingungen
 
-Unsere Intuition ist es eine Plattform zu betreiben, wo wir einen freundlichen und respektvollen Umgang pflegen. Wir hoffen, damit eine willkommene Umgebung zu schaffen.
+Unsere Absicht ist es, eine Plattform zu betreiben, wo wir einen freundlichen und respektvollen Umgang pflegen. Wir hoffen, damit eine einladende und offene Umgebung zu schaffen.
 
 Der Dienst wird betrieben vom [ChaOStreff Osnabrück](https://chaostreff-osnabrueck.de) und wird von Freiwilligen administriert.
 
@@ -10,30 +10,30 @@ Der Server steht in Deutschland.
 
 ### Regeln
 
-Die Regeln finden sich unter [Über diesen Server](https://osna.social/about/more).
+Die Nutzungsregeln sind dauerhaft einsehbar unter [Über diesen Server](https://osna.social/about/more).
 
 ## Datenschutzerklärung
 
 ### Welche Informationen sammeln wir?
 
 * **Grundlegende Kontoinformationen:** Wenn du dich auf diesem Server registrierst, wirst du darum gebeten, einen Benutzernamen, eine E-Mail-Adresse und ein Passwort einzugeben. Du kannst auch zusätzliche Profilinformationen wie etwa einen Anzeigenamen oder eine Biografie eingeben und ein Profilbild oder ein Headerbild hochladen. Der Benutzername, der Anzeigename, die Biografie, das Profilbild und das Headerbild werden immer öffentlich angezeigt.
-* **Beiträge, Folge- und andere öffentliche Informationen:** Die Liste der Leute, denen du folgst, wird öffentlich gezeigt, das gleiche gilt für deine Folgenden (Follower). Sobald du eine Nachricht übermittelst, wird das Datum und die Uhrzeit gemeinsam mit der Information, welche Anwendung du dafür verwendet hast, gespeichert. Nachricht können Medienanhänge enthalten, etwa Bilder und Videos. Öffentliche und ungelistete Beiträge sind öffentlich verfügbar. Sobald du einen Beitrag auf deinem Profil anpinnst, sind dies auch öffentlich verfügbare Informationen. Deine Beiträge werden an deine Folgenden ausgeliefert, was in manchen Fällen bedeutet, dass sie an andere Server ausgeliefert werden und dort Kopien gespeichert werden. Sobald du Beiträge löschst, wird dies ebenso an deine Follower ausgeliefert. Die Handlungen des Teilens und Favorisieren eines anderen Beitrages ist immer öffentlich.
-* **Direkte und "Nur Folgende"-Beiträge:** Alle Beiträge werden auf dem Server gespeichert und verarbeitet. "Nur Folgende"-Beiträge werden an deine Folgenden und an Benutzer, die du in ihnen erwähnst, ausgeliefert, direkte Beiträge nur an in ihnen erwähnte Benutzer. In manchen Fällen bedeutet dass, dass sie an andere Server ausgeliefert werden und dort Kopien gespeichert werden. Wir bemühen uns nach bestem Wissen und Gewissen, den Zugriff auf diese Beiträge auf nur autorisierte Personen einzuschränken, jedoch könnten andere Server dabei scheitern. Deswegen ist es wichtig, die Server, zu denen deine Folgenden gehören, zu überprüfen. Du kannst eine Option in den Einstellungen umschalten, um neue Folgenden manuell anzunehmen oder abzuweisen. *Bitte beachte, dass die Betreiber des Server und jedes empfangenden Servers solche Nachrichten anschauen könnten* und dass Empfänger von diesen eine Bildschirmkopie erstellen könnten, sie kopieren oder anderweitig weiterverteilen könnten. *Teile nicht irgendwelche gefährlichen Informationen über Mastodon.*
+* **Beiträge, Folge- und andere öffentliche Informationen:** Die Liste der Leute, denen du folgst, wird öffentlich gezeigt. Dasselbe gilt für deine Folgenden (Follower). Sobald du eine Nachricht übermittelst, wird das Datum und die Uhrzeit gemeinsam mit der Information, welche Anwendung du dafür verwendet hast, gespeichert. Nachrichten können Medienanhänge enthalten, etwa Bilder und Videos. Öffentliche und ungelistete Beiträge sind öffentlich verfügbar. Sobald du einen Beitrag auf deinem Profil anpinnst, sind dies auch öffentlich verfügbare Informationen. Deine Beiträge werden an deine Folgenden ausgeliefert, was in manchen Fällen bedeutet, dass sie an andere Server ausgeliefert werden und dort Kopien gespeichert werden. Sobald du Beiträge löschst, wird dies ebenso an deine Follower ausgeliefert. Die Handlungen des Teilens und des Favorisierens eines anderen Beitrages ist immer öffentlich.
+* **Direkte und "Nur Folgende"-Beiträge:** Alle Beiträge werden auf dem Server gespeichert und verarbeitet. "Nur Folgende"-Beiträge werden an deine Folgenden und an Benutzer, die du in ihnen erwähnst, ausgeliefert, direkte Beiträge nur an in ihnen erwähnte Benutzer. In manchen Fällen bedeutet dass, dass sie an andere Server ausgeliefert werden und dort Kopien gespeichert werden. Wir bemühen uns nach bestem Wissen und Gewissen, den Zugriff auf diese Beiträge auf nur autorisierte Personen einzuschränken, jedoch könnten andere Server dabei scheitern. Deswegen ist es wichtig, die Server, zu denen deine Folgenden gehören, zu überprüfen. Du kannst eine Option in den Einstellungen umschalten, um neue Folgende manuell anzunehmen oder abzuweisen. *Bitte beachte, dass die Betreiber des Servers und jedes empfangenden Servers solche Nachrichten anschauen könnten* und dass Empfänger von diesen eine Bildschirmkopie erstellen könnten, sie kopieren oder anderweitig weiterverteilen könnten. *Teile nicht irgendwelche gefährlichen Informationen über Mastodon.*
 
-### Für was verwenden wir deine Informationen?
-Jede der von dir gesammelten Information kann in den folgenden Weisen verwendet werden:
+### Wofür verwenden wir deine Informationen?
+Jede der über dich gesammelte Information kann auf folgende Arten verwendet werden:
 
 * Um die Kernfunktionalität von Mastodon bereitzustellen. Du kannst du mit dem Inhalt anderer Leute interagieren und deine eigenen Inhalte beitragen, wenn du angemeldet bist. Zum Beispiel kannst du anderen folgen, um deren kombinierten Beiträge in deine personalisierten Start-Timeline zu sehen.
 * Die E-Mail-Adresse, die du bereitstellst, kann dazu verwendet werden, dir Informationen, Benachrichtigungen über andere Leute, die mit deinen Inhalten interagieren oder dir Nachrichten senden, und auf Anfragen, Wünsche und/oder Fragen zu antworten.
 
 ### Wie beschützen wir deine Informationen?
-Wir implementieren eine Reihe von Sicherheitsmaßnahmen, um die Sicherheit deiner persönlichen Information sicherzustellen, wenn du persönliche Informationen eingibst, übermittelst oder auf sie zugreifst. Neben anderen Dingen, wird sowohl deine Browsersitzung, als auch der Datenverkehr zwischen deinen Anwendungen und der Programmierschnittstelle (API) mit TLS gesichert, dein Passwort wird mit einem starken Einwegalgorithmus gehasht. Du kannst Zwei-Faktor-Authentifizierung aktivieren, um den Zugriff auf dein Konto zusätzlich abzusichern.
+Wir implementieren eine Reihe von Sicherheitsmaßnahmen, um die Sicherheit deiner persönlichen Information sicherzustellen, wenn du persönliche Informationen eingibst, übermittelst oder auf sie zugreifst. Neben anderen Daten, werden sowohl deine Browsersitzung, als auch der Datenverkehr zwischen deinen Anwendungen und der Programmierschnittstelle (API) mit TLS gesichert. Dein Passwort wird mit einem starken Einwegalgorithmus gehasht. Du kannst Zwei-Faktor-Authentifizierung aktivieren, um den Zugriff auf dein Konto zusätzlich abzusichern.
 
 ### Was ist unsere Datenspeicherungsrichtlinie?
 
-Du kannst ein Archiv deines Inhalts anfordern und herunterladen, inkludierend deiner Beiträge, Medienanhänge, Profilbilder und Headerbilder.
+Du kannst ein Archiv deines Inhalts anfordern und herunterladen, einschließlich deiner Beiträge, Medienanhänge, Profilbilder und Headerbilder.
 
-Es ist in den meisten Fällen möglich dein Konto jederzeit eigenmächtig unwiderruflich zu löschen.
+Es ist in den meisten Fällen möglich, dein Konto jederzeit eigenmächtig unwiderruflich zu löschen.
 
 ### Verwenden wir Cookies?
 
@@ -41,16 +41,16 @@ Ja. Cookies sind kleine Dateien, die eine Webseite oder ihr Serviceanbieter übe
 
 Wir verwenden Cookies, um deine Einstellungen zu verstehen und für zukünftige Besuche zu speichern.
 
-### Offenbaren wir Informationen an Dritte?
+### Geben wir Informationen an Dritte weiter?
 
-Wir verkaufen nicht, handeln nicht mit oder übertragen deine persönlich identifizierbaren Informationen nicht an Dritte. Dies beinhaltet nicht Dritte, die vertrauenswürdig sind und uns beim Betreiben unserer Seite, Leiten unseres Geschäftes oder dabei, die Dienste für dich bereitzustellen, unterstützen, sofern diese Dritte zustimmen, diese Informationen vertraulich zu halten. Wir können auch Informationen freigeben, wenn wir glauben, dass Freigabe angemessen ist, um dem Gesetz zu entsprechen, unsere Seitenrichtlinien durchzusetzen oder unsere Rechte, Eigentum und/oder Sicherheit oder die anderer zu beschützen.
+Deine persönlich identifizierenden Informationen verkaufen wir nicht, wir handeln nicht damit oder wir übertragen sie nicht an Dritte. Dies beinhaltet nicht Dritte, die vertrauenswürdig sind und uns beim Betreiben unserer Seite, Leiten unseres Geschäftes oder dabei, die Dienste für dich bereitzustellen, unterstützen, sofern diese Dritte zustimmen, diese Informationen vertraulich zu halten. Wir können auch Informationen freigeben, wenn wir glauben, dass eine Freigabe angemessen ist, um dem Gesetz zu entsprechen, unsere Nutzungsrichtlinien durchzusetzen oder unsere Rechte, Eigentum und/oder die Sicherheit oder die anderer zu beschützen.
 
-Dein öffentlicher Inhalt kann durch andere Server im Netzwerk heruntergeladen werden. Deine öffentlichen und "Nur Folgende"-Beiträge werden an die Server ausgeliefert, bei denen sich deine Folgenden befinden und direkte Nachrichten werden an die Server des Empfängers ausgeliefert, falls diese Folgenden oder Empfänger sich auf einem anderen Server als diesen befinden.
+Dein öffentlicher Inhalt kann durch andere Server im Netzwerk heruntergeladen werden. Deine öffentlichen und "Nur Folgende"-Beiträge werden an die Server ausgeliefert, bei denen sich deine Folgenden befinden. Direkte Nachrichten werden an die Server des Empfängers ausgeliefert, falls diese Folgenden oder Empfänger sich auf einem anderen Server als diesen befinden.
 
-Wenn du eine Anwendung autorisierst, dein Konto zu benutzen, kann diese – abhängig von den von dir genehmigten Befugnissen – auf deine öffentlichen Profilinformationen, deine Folgt- und Folgende-Liste, deine Listen, alle deine Beiträge und deine Favoriten zugreifen. Anwendungen können nie auf deine E-Mail-Adresse oder dein Passwort zugreifen
+Wenn du eine Anwendung autorisierst, dein Konto zu benutzen, kann diese – abhängig von den von dir genehmigten Befugnissen – auf deine öffentlichen Profilinformationen, deine Folgt- und Folgende-Liste, deine Listen, alle deine Beiträge und deine Favoriten zugreifen. Anwendungen können nie auf deine E-Mail-Adresse oder dein Passwort zugreifen.
 
 ### Webseitenbenutzung durch Kinder
-Unsere Website, Produkte und Dienstleistungen sind alle an Leute gerichtet, die mindestens 16 Jahre als sind. Wenn du unter 16 bist, darfst du nach den Bestimmungen der DSGVO (Datenschutz-Grundverordnung) diese Webseite nicht benutzen.
+Unsere Website, Produkte und Dienstleistungen sind an Menschen gerichtet, die mindestens 16 Jahre als sind. Wenn du unter 16 bist, darfst du nach den Bestimmungen der DSGVO (Datenschutz-Grundverordnung) diese Webseite nicht benutzen.
 
 ### Verantwortlicher im Sinne des Datenschutzrechts
 siehe [Impressum Chaostreff Osnabrück e.V.](https://chaostreff-osnabrueck.de/site-notice.html)
@@ -68,7 +68,7 @@ poststelle@lfd.niedersachsen.de
 
 Wenn wir uns entscheiden, Änderungen an unserer Datenschutzerklärung vorzunehmen, werden wir diese Änderungen auf dieser Seite bekannt gegeben.
 
-Dieses Dokument ist [CC-BY-SA](https://creativecommons.org/licenses/by-sa/4.0/legalcode). Es wurde zuletzt aktualisiert am 26. Juli 2020.
+Dieses Dokument ist [CC-BY-SA](https://creativecommons.org/licenses/by-sa/4.0/legalcode). Es wurde zuletzt aktualisiert am 28. Juli 2020.
 
 Ursprünglich übernommen von der [Discourse-Datenschutzerklärung](https://github.com/discourse/discourse).
 
@@ -78,9 +78,9 @@ Ursprünglich übernommen von der [Discourse-Datenschutzerklärung](https://gith
 
 ## Terms of Service
 
-It is our intention that you use this service for personal enjoyment and respectful, friendly interaction. To that end, we hope to foster a welcoming and inclusive environment
+It is our intention that you use this service for personal enjoyment and respectful, friendly interaction. To that end, we hope to foster a welcoming and inclusive environment.
 
-This service is operated by [ChaOStreff Osnabrück](https://chaostreff-osnabrueck.de).
+This service is operated by [ChaOStreff Osnabrück e.V.](https://chaostreff-osnabrueck.de).
 
 The server hosting is located in Germany.
 
@@ -145,6 +145,6 @@ If we decide to change our privacy policy, we will post those changes on this pa
 
 Errors and omissions excepted. In case of doubt, the german original version applies.
 
-This document is CC-BY-SA. It was last updated July 26, 2020.
+This document is CC-BY-SA. It was last updated July 28, 2020.
 
 Originally adapted from the [Discourse privacy policy](https://github.com/discourse/discourse).
