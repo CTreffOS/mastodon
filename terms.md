@@ -4,7 +4,7 @@
 
 Unsere Absicht ist es, eine Plattform zu betreiben, wo wir einen freundlichen und respektvollen Umgang pflegen. Wir hoffen, damit eine einladende und offene Umgebung zu schaffen.
 
-Der Dienst wird betrieben vom [ChaOStreff Osnabrück](https://chaostreff-osnabrueck.de) und wird von Freiwilligen administriert.
+Der Dienst wird betrieben vom [Chaostreff Osnabrück e.V.](https://www.chaostreff-osnabrueck.de) und wird von Freiwilligen administriert.
 
 Der Server steht in Deutschland.
 
@@ -53,7 +53,7 @@ Wenn du eine Anwendung autorisierst, dein Konto zu benutzen, kann diese – abh�
 Unsere Website, Produkte und Dienstleistungen sind an Menschen gerichtet, die mindestens 16 Jahre als sind. Wenn du unter 16 bist, darfst du nach den Bestimmungen der DSGVO (Datenschutz-Grundverordnung) diese Webseite nicht benutzen.
 
 ### Verantwortlicher im Sinne des Datenschutzrechts
-siehe [Impressum Chaostreff Osnabrück e.V.](https://chaostreff-osnabrueck.de/site-notice.html)
+siehe [Impressum Chaostreff Osnabrück e.V.](https://www.chaostreff-osnabrueck.de/site-notice.html)
 
 ### Zuständige Datenschutzaufsicht
 ```
@@ -80,7 +80,7 @@ Ursprünglich übernommen von der [Discourse-Datenschutzerklärung](https://gith
 
 It is our intention that you use this service for personal enjoyment and respectful, friendly interaction. To that end, we hope to foster a welcoming and inclusive environment.
 
-This service is operated by [ChaOStreff Osnabrück e.V.](https://chaostreff-osnabrueck.de).
+This service is operated by [Chaostreff Osnabrück e.V.](https://www.chaostreff-osnabrueck.de).
 
 The server hosting is located in Germany.
 
@@ -127,7 +127,7 @@ When you authorize an application to use your account, depending on the scope of
 Our site, products and services are all directed to people who are at least 16 years old. If you are under the age of 16, per the requirements of the GDPR (General Data Protection Regulation) do not use this site.
 
 ### Responsible person
-see [Imprint Chaostreff Osnabrück e.V.](https://chaostreff-osnabrueck.de/site-notice.html)
+see [site notice Chaostreff Osnabrück e.V.](https://www.chaostreff-osnabrueck.de/site-notice.html)
 
 
 ### Responsible data protection authority
