@@ -127,7 +127,7 @@ When you authorize an application to use your account, depending on the scope of
 Our site, products and services are all directed to people who are at least 16 years old. If you are under the age of 16, per the requirements of the GDPR (General Data Protection Regulation) do not use this site.
 
 ### Responsible person
-see [site notice Chaostreff Osnabrück e.V.](https://www.chaostreff-osnabrueck.de/site-notice.html)
+see [site notice Chaostreff Osnabrück e.V.](https://www.chaostreff-osnabrueck.de/site-notice-en.html)
 
 
 ### Responsible data protection authority
