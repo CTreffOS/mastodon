@@ -6,6 +6,7 @@ Two themes were added. For both the main color is orange. There is one dark and 
 
 ## install
 copy the files from the *custom* directory of this repository to the *live* directory
+
 except the locales, there the lines must be modified.
 
 ### Pre-compiling updated assets:
