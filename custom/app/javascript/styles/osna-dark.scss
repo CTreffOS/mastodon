@@ -5,3 +5,15 @@ $ui-secondary-color: #e4b479;
 $ui-highlight-color: #ed9828;
 
 @import 'application';
+
+.simple_form{
+  input[type=text],
+  input[type=number],
+  input[type=email],
+  input[type=password],
+  textarea {
+    background: $ui-base-color;
+    border: 1px solid lighten($ui-base-color, 14%);
+  }
+}
+
