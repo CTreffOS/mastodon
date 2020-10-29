@@ -9,7 +9,7 @@ $inverted-text-color: #321c00;
 @import 'application';
 
 
-.reply-indicator{
+.reply-indicator,
+.compose-form .compose-form__warning {
   background: $ui-base-color;
 }
-
