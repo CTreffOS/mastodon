@@ -12,7 +12,7 @@ Die folgende (nicht vollständige) Liste beinhaltet Verhaltensweisen, die hier n
 * Wir tolerieren kein Rassismus, Sexismus, Beschimpfungen, Mobbing, vorsätzliches Misgendern sowie [Deadnaming](https://queer-lexikon.net/2019/12/23/deadname/) oder deren Befürwortung.
 * Wir tolerieren keine Diskriminierung von Geschlechtern und sexuellen Minderheiten.
 * Wir tolerieren keine gewalttätige nationalistische Propaganda, Nazi-Symbolismus oder Förderung der Ideologie des Nationalsozialismus.
-* Wir tolerieren keine Kontaktierung von Leuten, die klar gemacht haben, dass sie keinen Kontakt wollen. Dogpiling.
+* Wir tolerieren keine Kontaktierung von Leuten, die klar gemacht haben, dass sie keinen Kontakt wollen.
 * Wir tolerieren keinen sexuellen Inhalt, Gewaltdarstellungen oder Betrug.
 * Wir tolerieren keine nicht getaggte, automatisierte oder übermäßige Werbung.
 * Wir tolerieren keine Bots, die ohne ihre expliziten Anfragen mit Nutzer interagieren.
@@ -26,7 +26,7 @@ Die folgende (nicht vollständige) Liste beinhaltet Verhaltensweisen, die hier n
 
 *(Inspiriert von den Regeln von bsd.network wurden diese optimalen Vorgehensweisen erstellt. Danke schön!)*
 
-### Beilegung
+### Attribution
 
 Dieser Text steht frei zur Verwendung und Remixen unter [CC-BY (Attribution 4.0 International)](https://creativecommons.org/licenses/by/4.0/) [leah@chaos.social](https://chaos.social/@leah) & [rixx@chaos.social](https://chaos.social/@rixx), Betreiber:innen von [chaos.social](https://chaos.social/)
 
@@ -46,10 +46,10 @@ The following rules are a (non-exhaustive) list of behaviours that may lead to d
 * We do not tolerate racsim, sexism, abuse, and their endorsement.
 * We do not tolerate discrimination of sexes, genders or sexual minorities.
 * We do not tolerate violent nationalist propaganda, Nazi symbolism or promoting the ideology of National Socialism.
-* We do not tolerate harassment, including brigading, dogpiling, or any other form of contact with a user who has stated that they do not wish to be contacted.
+* We do not tolerate contact with a user who has stated that they do not wish to be contacted.
 * We do not tolerate mobbing, including name-calling, intentional misgendering or deadnaming.
-* We do not tolerate sexual content, depiction of violence or fraud
-* We do not tolerate bots, which interact with users, who have not agree to this interaction
+* We do not tolerate sexual content, depiction of violence or fraud.
+* We do not tolerate bots, which interact with users, who have not agree to this interaction.
 * Actions intended to damage this instance or its performance may lead to immediate account suspension.
 * Content that is illegal in Germany will be deleted and may lead to immediate account suspension.
 
