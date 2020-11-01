@@ -1,4 +1,4 @@
-[English version below](https://osna.social/terms#terms-of-service)
+**[English version below](https://osna.social/terms#terms-of-service)**
 
 ## Nutzungsbedingungen
 
@@ -132,9 +132,9 @@ see [site notice Chaostreff Osnabrück e.V.](https://www.chaostreff-osnabrueck.d
 
 ### Responsible data protection authority
 ```
-Die Landesbeauftragte für den Datenschutz Niedersachsen
+Privacy officer of Lower Saxony (Die Landesbeauftragte für den Datenschutz Niedersachsen)
 Prinzenstraße 5
-30159 Hannover
+30159 Hannover, Germany
 https://www.niedersachsen.de/
 poststelle@lfd.niedersachsen.de
 ```
