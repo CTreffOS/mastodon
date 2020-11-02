@@ -4,9 +4,9 @@
 
 ### Verhaltenskodex
 
-**"Seid ausgezeichnet zueinander"** ist einfacher gesagt, als getan und verschiedene Leute verstehen damit unterschiedliche Sachen.
+**"Seid ausgezeichnet zueinander"** ist einfacher gesagt als getan und verschiedene Leute verstehen damit unterschiedliche Sachen.
 
-Die folgende (nicht vollständige) Liste beinhaltet Verhaltensweisen, die hier nicht tolerieren werden. Wir behalten uns vor Toots zu löschen, Accounts stumm zu schalten oder sperren, wenn gegen die Regeln verstoßen werden, wie auch in den [Nutzungsbedingungen](https://osna.social/terms) beschrieben.
+Die folgende (nicht vollständige) Liste beinhaltet Verhaltensweisen, die hier nicht tolerieren werden. Wir behalten uns vor, Toots zu löschen, Accounts stumm zu schalten oder sperren, wenn gegen die Regeln verstoßen werden, wie auch in den [Nutzungsbedingungen](https://osna.social/terms) beschrieben.
 
 * Wir tolerieren kein Belästigung, Stalking oder [Doxing](https://de.wikipedia.org/wiki/Doxing).
 * Wir tolerieren kein Rassismus, Sexismus, Beschimpfungen, Mobbing, vorsätzliches Misgendern sowie [Deadnaming](https://queer-lexikon.net/2019/12/23/deadname/) oder deren Befürwortung.
@@ -40,10 +40,10 @@ Dieser Text steht frei zur Verwendung und Remixen unter [CC-BY (Attribution 4.0 
 
 **"Be excellent to each other"** is easier said than done, and means different things to different people.
 
-The following rules are a (non-exhaustive) list of behaviours that may lead to deletion of toots, silencing or suspension of accounts, at the descretion of the instance administrators, as described in our [Terms](https://osna.social/terms).
+The following rules are a (non-exhaustive) list of behaviours that may lead to deletion of toots, silencing or suspension of accounts, at the discretion of the instance administrators, as described in our [Terms](https://osna.social/terms).
 
 * We do not tolerate threatening behaviour, stalking, and [doxxing](https://en.wikipedia.org/wiki/Doxing).
-* We do not tolerate racsim, sexism, abuse, and their endorsement.
+* We do not tolerate racism, sexism, abuse, and their endorsement.
 * We do not tolerate discrimination of sexes, genders or sexual minorities.
 * We do not tolerate violent nationalist propaganda, Nazi symbolism or promoting the ideology of National Socialism.
 * We do not tolerate contact with a user who has stated that they do not wish to be contacted.
