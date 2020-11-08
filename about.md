@@ -6,7 +6,7 @@
 
 **"Seid ausgezeichnet zueinander"** ist einfacher gesagt als getan und verschiedene Leute verstehen damit unterschiedliche Sachen.
 
-Die folgende (nicht vollständige) Liste beinhaltet Verhaltensweisen, die hier nicht tolerieren werden. Wir behalten uns vor, Toots zu löschen, Accounts stumm zu schalten oder sperren, wenn gegen die Regeln verstoßen werden, wie auch in den [Nutzungsbedingungen](https://osna.social/terms) beschrieben.
+Die folgende (nicht vollständige) Liste beinhaltet Verhaltensweisen, die hier nicht toleriert werden. Wir behalten uns vor, Toots zu löschen, Accounts stumm zu schalten oder zu sperren, wenn gegen die Regeln verstoßen werden, wie auch in den [Nutzungsbedingungen](https://osna.social/terms) beschrieben.
 
 * Wir tolerieren kein Belästigung, Stalking oder [Doxing](https://de.wikipedia.org/wiki/Doxing).
 * Wir tolerieren kein Rassismus, Sexismus, Beschimpfungen, Mobbing, vorsätzliches Misgendern sowie [Deadnaming](https://queer-lexikon.net/2019/12/23/deadname/) oder deren Befürwortung.
@@ -21,8 +21,8 @@ Die folgende (nicht vollständige) Liste beinhaltet Verhaltensweisen, die hier n
 
 ### Optimale Vorgehensweisen
 
-* Wir arbeiten mit Programmen, mit denen wir eine rücksichtsvolle und angenehme Atmosphäre schaffen. Dies beinhalte die Nutzung von Inhaltswarnung(für potenziell beunruhigende oder kontroverse Themen) und die alternative Beschriftung von Bildern und Videos für Menschen mit Sehbehinderung.
-* Automatisierte Toots sowie hochfrequente Toots sollten **nicht gelistet** sein(für alle sichtbar, allerdings erscheint dies nicht in der lokalen Timeline), um die lokale Timeline unserer Instanz für einen Platz der Gemeinschaft und den Dialog zu bewahren. Dies gilt auch für Bots, Feed Toots, Twitter Retweets
+* Wir arbeiten mit Programmen, mit denen wir eine rücksichtsvolle und angenehme Atmosphäre schaffen. Dies beinhaltet die Nutzung von Inhaltswarnung (für potenziell beunruhigende oder kontroverse Themen) und die alternative Beschriftung von Bildern und Videos für Menschen mit Sehbehinderung.
+* Automatisierte Toots sowie hochfrequente Toots sollten **nicht gelistet** sein (für alle sichtbar, allerdings erscheint dies nicht in der lokalen Timeline), um die lokale Timeline unserer Instanz für einen Platz der Gemeinschaft und den Dialog zu bewahren. Dies gilt auch für Bots, Feed Toots, Twitter Retweets
 
 *(Inspiriert von den Regeln von bsd.network wurden diese optimalen Vorgehensweisen erstellt. Danke schön!)*
 
