@@ -13,6 +13,7 @@ Die folgende (nicht vollständige) Liste beinhaltet Verhaltensweisen, die hier n
 * Wir tolerieren keine Diskriminierung von Geschlechtern und sexuellen Minderheiten.
 * Wir tolerieren keine gewalttätige nationalistische Propaganda, Nazi-Symbolismus oder Förderung der Ideologie des Nationalsozialismus.
 * Wir tolerieren keine Kontaktierung von Leuten, die klar gemacht haben, dass sie keinen Kontakt wollen.
+* Wir tolerieren kein Mobbing, einschließlich Beschimpfungen.
 * Wir tolerieren keinen sexuellen Inhalt, Gewaltdarstellungen oder Betrug.
 * Wir tolerieren keine nicht getaggte, automatisierte oder übermäßige Werbung.
 * Wir tolerieren keine Bots, die ohne ihre expliziten Anfragen mit Nutzer interagieren.
@@ -21,7 +22,7 @@ Die folgende (nicht vollständige) Liste beinhaltet Verhaltensweisen, die hier n
 
 ### Optimale Vorgehensweisen
 
-* Wir arbeiten mit Programmen, mit denen wir eine rücksichtsvolle und angenehme Atmosphäre schaffen. Dies beinhaltet die Nutzung von Inhaltswarnung (für potenziell beunruhigende oder kontroverse Themen) und die alternative Beschriftung von Bildern und Videos für Menschen mit Sehbehinderung.
+* Wir arbeiten mit Programmen, mit denen wir eine rücksichtsvolle und angenehme Atmosphäre schaffen. Dies beinhaltet die Nutzung von Inhaltswarnungen (für potenziell beunruhigende oder kontroverse Themen) und die alternative Beschriftung von Bildern und Videos für Menschen mit Sehbehinderung.
 * Automatisierte Toots sowie hochfrequente Toots sollten **nicht gelistet** sein (für alle sichtbar, allerdings erscheint dies nicht in der lokalen Timeline), um die lokale Timeline unserer Instanz für einen Platz der Gemeinschaft und den Dialog zu bewahren. Dies gilt auch für Bots, Feed Toots, Twitter Retweets
 
 *(Inspiriert von den Regeln von bsd.network wurden diese optimalen Vorgehensweisen erstellt. Danke schön!)*
@@ -44,12 +45,12 @@ The following rules are a (non-exhaustive) list of behaviours that may lead to d
 
 * We do not tolerate threatening behaviour, stalking, and [doxxing](https://en.wikipedia.org/wiki/Doxing).
 * We do not tolerate racism, sexism, abuse, and their endorsement.
-* We do not tolerate discrimination of sexes, genders or sexual minorities.
+* We do not tolerate discrimination of genders or sexual minorities.
 * We do not tolerate violent nationalist propaganda, Nazi symbolism or promoting the ideology of National Socialism.
 * We do not tolerate contact with a user who has stated that they do not wish to be contacted.
 * We do not tolerate mobbing, including name-calling, intentional misgendering or deadnaming.
 * We do not tolerate sexual content, depiction of violence or fraud.
-* We do not tolerate bots, which interact with users, who have not agree to this interaction.
+* We do not tolerate bots, which interact with users, who have not agreed to this interaction.
 * Actions intended to damage this instance or its performance may lead to immediate account suspension.
 * Content that is illegal in Germany will be deleted and may lead to immediate account suspension.
 
