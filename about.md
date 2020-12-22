@@ -6,7 +6,7 @@
 
 **"Seid ausgezeichnet zueinander"** ist einfacher gesagt als getan und verschiedene Leute verstehen damit unterschiedliche Sachen.
 
-Die folgende (nicht vollständige) Liste beinhaltet Verhaltensweisen, die hier nicht toleriert werden. Wir behalten uns vor, Toots zu löschen, Accounts stumm zu schalten oder zu sperren, wenn gegen die Regeln verstoßen werden, wie auch in den [Nutzungsbedingungen](https://osna.social/terms) beschrieben.
+Die folgende (nicht vollständige) Liste beinhaltet Verhaltensweisen, die hier nicht toleriert werden. Wir behalten uns vor, Toots zu löschen, Accounts stumm zu schalten oder zu sperren, wenn gegen die Regeln verstoßen wird, wie auch in den [Nutzungsbedingungen](https://osna.social/terms) beschrieben.
 
 * Wir tolerieren kein Belästigung, Stalking oder [Doxing](https://de.wikipedia.org/wiki/Doxing).
 * Wir tolerieren kein Rassismus, Sexismus, Beschimpfungen, Mobbing, vorsätzliches Misgendern sowie [Deadnaming](https://queer-lexikon.net/2019/12/23/deadname/) oder deren Befürwortung.
@@ -16,7 +16,7 @@ Die folgende (nicht vollständige) Liste beinhaltet Verhaltensweisen, die hier n
 * Wir tolerieren kein Mobbing, einschließlich Beschimpfungen.
 * Wir tolerieren keinen sexuellen Inhalt, Gewaltdarstellungen oder Betrug.
 * Wir tolerieren keine nicht getaggte, automatisierte oder übermäßige Werbung.
-* Wir tolerieren keine Bots, die ohne ihre expliziten Anfragen mit Nutzer interagieren.
+* Wir tolerieren keine Bots, die mit Nutzern interagieren, ohne dass sie sich ausdrücklich mit dieser Interaktion einverstanden erklärt haben.
 * Interaktionen, die versuchen diese Instanz zu beschädigen oder die Performance zu beeinträchtigen, führen zu einer sofortigen Accountsperrung.
 * Inhalt, der in Deutschland illegal ist, wird gelöscht und führt zu einer sofortigen Accountsperrung.
 
