@@ -4,7 +4,7 @@
 
 ### Verhaltenskodex
 
-**"Seid ausgezeichnet zueinander"** ist einfacher gesagt als getan und verschiedene Leute verstehen damit unterschiedliche Sachen.
+**"Seid ausgezeichnet zueinander"** ist einfacher gesagt als getan und verschiedene Leute verstehen darunter unterschiedliche Sachen.
 
 Die folgende (nicht vollständige) Liste beinhaltet Verhaltensweisen, die hier nicht toleriert werden. Wir behalten uns vor, Toots zu löschen, Accounts stumm zu schalten oder zu sperren, wenn gegen die Regeln verstoßen wird, wie auch in den [Nutzungsbedingungen](https://osna.social/terms) beschrieben.
 
