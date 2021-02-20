@@ -16,5 +16,5 @@ RAILS_ENV=production bundle exec rails assets:precompile
 ```
 ### Restarting Mastodon services:
 ```sh
-systemctl restart mastodon-*.service
+systemctl restart mastodon-sidekiq.service mastodon-streaming.service mastodon-web.service
 ```
